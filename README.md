@@ -1,14 +1,9 @@
 # Hi there! I'm Sharon 
 
-Here's what you can expect to find on my github 
+Welcome to my Github profile! I am a social and behavioral scientist with a passion for exploring the intersection between technology and human behavior. I am particularly interested in the ways in which Artificial Intelligence and Machine Learning can be used to solve complex social problems and improve quality of life.
 
-1. Investigating the relationship between income inequality and political polarization using data from the General Social Survey and visualizing the results using Python and seaborn.
-2. Analyzing the impact of a new policy on student test scores using regression analysis in R.
-3. Developing a machine learning model to predict which students are most at risk of dropping out of school using data from the National Longitudinal Study of Adolescent Health and Python.
-4. Examining the relationship between social support and mental health outcomes using structural equation modeling in R.
-5. Analyzing the impact of social media on body image and self-esteem in adolescent girls using Twitter data and sentiment analysis in Python.
-6. Investigating the effects of stereotype threat on academic performance using experimental methods in social psychology.
-7. Developing a chatbot to provide mental health support and resources for college students using natural language processing and deep learning in Python.
-8. Analyzing the impact of implicit bias in policing practices using data from traffic stops and logistic regression in R.
-9. Developing a machine learning model to predict recidivism rates among released prisoners using data from the Bureau of Justice Statistics and Python.
-10. Investigating the impact of social identity on political attitudes and behavior using survey data and multilevel modeling in R.
+On this Github profile, you will find a collection of my recent projects, which range from data analysis and visualization to machine learning and natural language processing. I am constantly learning and experimenting with new tools and techniques, and I believe that the best way to learn is by doing. Therefore, all of my projects are designed to be hands-on and practical, with a focus on real-world applications.
+
+If you are interested in data analysis, machine learning, natural language processing, or any other related topics, please feel free to explore my Github repositories. Each project is fully documented, with detailed explanations of the data, methods, and results. Additionally, all of my code is open-source, so you are free to use, modify, and share it as you see fit.
+
+Thank you for visiting my Github profile, and I hope that you find something here that interests and inspires you. If you have any questions or comments, please do not hesitate to reach out
