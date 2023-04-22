@@ -6,4 +6,4 @@ On this Github profile, you will find a collection of my recent projects, which 
 
 If you are interested in data analysis, machine learning, natural language processing, or any other related topics, please feel free to explore my Github repositories. Each project is fully documented, with detailed explanations of the data, methods, and results. Additionally, all of my code is open-source, so you are free to use, modify, and share it as you see fit.
 
-Thank you for visiting my Github profile, and I hope that you find something here that interests and inspires you. If you have any questions or comments, please do not hesitate to reach out
+Please feel free to reach out with any questions/comments/feedback! 
