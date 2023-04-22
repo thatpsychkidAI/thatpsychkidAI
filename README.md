@@ -1,4 +1,4 @@
-##Hi there! I'm Sharon 
+# Hi there! I'm Sharon 
 
 Here's what you can expect to find on my github 
 
